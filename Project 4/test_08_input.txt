@@ -1,0 +1,13 @@
+load	test_08_list.txt
+remove	TJBHPJCLQ87
+remove	YZQMCHOKR
+find	YZQMCHOKR
+remove	XWORWCZAC86
+remove	QAGIPDXCD
+find	QAGIPDXCD
+remove	XWORWCZAC65
+remove	BBHROTGXC
+find	BBHROTGXC
+add	ZXTUYOEOV	Cereal	2	$1.10
+add	LOTLQYROI	Brussels sprouts	2	$6.70
+total

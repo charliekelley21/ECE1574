@@ -1,0 +1,8 @@
+Command: mean1 2 3 4
+Mean: 2.5
+Command: sum-of-squares1 2 3 4
+Sum of Squares: 30
+Command: variance1 2 3 4
+Variance: 1.25
+Command: standard-deviation1 2 3 4
+Standard Deviation: 1.11803

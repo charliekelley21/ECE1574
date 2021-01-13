@@ -1,0 +1,4 @@
+mean 1 2 3 4
+sum-of-squares 1 2 3 4
+variance 1 2 3 4
+standard-deviation 1 2 3 4 

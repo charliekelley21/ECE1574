@@ -1,0 +1,13 @@
+add name Random
+add step Mix until blended
+add ingredient 2	cups	flour
+add ingredient 3	lbs	sugar
+add ingredient 4	gal	cocoa
+add ingredient 2	lbs	vanilla
+add ingredient 1	cups	water
+display
+save chocolate_chip_cookies.txt
+
+load chocolate_chip_cookies.txt
+display
+

@@ -1,0 +1,50 @@
+EDGSYPFNE	Chicken	2	$10.03
+ZGBQMPGBJ	Frozen Waffles	1	$12.48
+ZGVKXZPFT	Noodles	3	$10.60
+DIRUASBBK	onion	2	$4.90
+AEXBRYJMI	Sugar	1	$8.17
+HOMGQPQJM	Frozen Burritos	2	$8.17
+OENHXPNWQ	Soup	3	$8.20
+FJGFYOVLW	Steak	1	$13.58
+OEDDATKNA	Flour	2	$8.99
+UTDVLIGSP	Bagels	2	$7.00
+EZWRYNXDQ	Peanut butter	3	$15.28
+WMSLUMEZK	coffee filters	1	$2.31
+ZZSKTYLQQ	Frozen Waffles	2	$10.48
+VPLADKOXV	Chocolate Milk	2	$8.27
+VUQQGPPAB	Salt	1	$14.63
+QAGIPDXCD	coffee filters	1	$8.87
+KDLOKIIDY	potato	3	$14.05
+YZQMCHOKR	Cereal	1	$1.30
+VRWOSGSDU	Chocolate Milk	1	$7.92
+KWEAOCBFQ	Salad	2	$10.29
+FKFVUAMRO	shrimp	3	$10.77
+UNWAWHXAJ	Pepperoni Pizza	1	$15.70
+VQGAINMNJ	Tomatoes	2	$9.04
+DEZMPTBLW	Tomatoes	2	$15.02
+EICRBZJJZ	onion	2	$4.88
+IVVFTBKSP	asparagus	3	$15.22
+MNHHNNPSG	Lemon Lime Yogurt	1	$3.84
+TJBHPJCLQ	Cereal	3	$2.20
+BBHROTGXC	Candy	2	$5.25
+SMHJOASRH	Chocolate Milk	3	$10.66
+RGHTYIVHB	cookies	1	$11.27
+DFUXTOMBX	Candy	1	$9.30
+LYUWTNDAJ	Chicken broth	1	$8.16
+NRNWBTCXS	Noodles	2	$4.46
+IHEABRYXN	Bread	2	$12.72
+WXFCKSTXR	Lemon Lime Yogurt	3	$15.35
+LSEPVOWBP	Salt	3	$2.03
+HJMAEKXKM	Chicken broth	3	$7.63
+VDZQYKJCC	Chocolate Milk	1	$3.05
+FAZVZGGLI	salmon	1	$12.77
+JRZQAWVCN	Chicken broth	3	$8.90
+QEPRLVRMS	Soup	1	$7.91
+DKYNHJGGB	Frozen Burritos	1	$5.67
+RRXPQQTFH	ice cream	3	$5.75
+WONURSHRF	Baking power	3	$2.46
+DUABDSSDH	avocados	1	$10.72
+AHSAAOONL	Flour	1	$3.89
+MICZEFUEG	cookies	1	$12.68
+GKXJZZSTZ	Lemon Lime Yogurt	3	$15.32
+XWORWCZAC	Chicken broth	2	$15.13

@@ -1,0 +1,7 @@
+colors red white 
+name US
+name ur
+landmass Asia
+colors red purple
+name Not here!
+landmass Atlantis

@@ -1,0 +1,26 @@
+Command: load test_08_list.txt
+	Loaded: 50
+Command: remove TJBHPJCLQ87
+	Sorry id TJBHPJCLQ87 not removed.
+Command: remove YZQMCHOKR
+	YZQMCHOKR	Cereal	1 $1.36
+Command: find YZQMCHOKR
+	Sorry id YZQMCHOKR not found.
+Command: remove XWORWCZAC86
+	Sorry id XWORWCZAC86 not removed.
+Command: remove QAGIPDXCD
+	QAGIPDXCD	coffee filters	1 $8.87
+Command: find QAGIPDXCD
+	Sorry id QAGIPDXCD not found.
+Command: remove XWORWCZAC65
+	Sorry id XWORWCZAC65 not removed.
+Command: remove BBHROTGXC
+	BBHROTGXC	Candy	2 $5.25
+Command: find BBHROTGXC
+	Sorry id BBHROTGXC not found.
+Command: add	adding--> ZXTUYOEOV	Cereal	2 $1.15
+	Item added.
+Command: add	adding--> LOTLQYROI	Brussels sprouts	2 $6.76
+	Item added.
+Command: total
+	Total: $445.95
